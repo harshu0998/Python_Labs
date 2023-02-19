@@ -1,4 +1,9 @@
-
+'''
+Rashad Khan 
+LAB 4
+Completed: 02/19/2023
+ID:010713326
+'''
 
 #task 1
 import math
