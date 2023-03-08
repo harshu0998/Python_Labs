@@ -3,6 +3,7 @@ Rashad Khan
 010713326
 CS2520-01
 Project 2
+03/08/2023
 """
 import time
 #task 1 import
