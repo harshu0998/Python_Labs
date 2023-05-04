@@ -1,3 +1,11 @@
+"""
+Rashad Khan
+010713326
+CS2520-01
+Project 3
+05/03/2023
+"""
+
 #task 1
 def generic(func, test_list):
     for i in range(len(test_list)):
