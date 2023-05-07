@@ -1,3 +1,11 @@
+"""
+Rashad Khan
+010713326
+CS2520-01
+Project 4
+05/07/2023
+"""
+
 
 class Pair:
     def __init__(self, x=0, y=0):
